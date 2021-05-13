@@ -1,7 +1,8 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+#  Home: /
+  About: /about
+  Posts: /archives
   Tags: /tags
   Categories: /categories
   Github:
