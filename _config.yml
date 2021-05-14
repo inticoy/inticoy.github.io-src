@@ -5,10 +5,10 @@
 # Site
 title: Inticoy's Blog
 subtitle: Inticoy's Raw Notes
-description: '테스트'
+description: ''
 keywords:
 author: Geonwoo, Yun
-language: en
+language: kr
 timezone: 'Asia/Seoul'
 
 # URL
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: clean-blog-change
+theme: Chic
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
