@@ -1,4 +1,5 @@
 ---
-title: All tags
+title: Tags
 type: "tags"
+layout: tag
 ---

@@ -1,4 +1,5 @@
 ---
-title: All Categories
+title: Categories
 type: "categories"
+layout: 'category'
 ---
