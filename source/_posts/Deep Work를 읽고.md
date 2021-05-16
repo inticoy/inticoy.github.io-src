@@ -2,7 +2,7 @@
 title: 딥 워크(Deep Work)를 읽고.
 # subtitle: 딥 워크를 읽고 난 뒤의 느낀점과 요약입니다.
 # description: 딥워크 요약
-date: 2021-05-13 23:00:00
+date: 2021-05-13 23:15:12
 tags: ["Books", "Review"]
 categories: ["Books"]
 ---
